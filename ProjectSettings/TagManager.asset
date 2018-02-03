@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - fondo
+  - otro
   - 
   - 
   - 
@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: fondo
+    uniqueID: 2396491089
+    locked: 0
+  - name: otro
+    uniqueID: 300841001
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
