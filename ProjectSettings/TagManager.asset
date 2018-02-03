@@ -15,7 +15,7 @@ TagManager:
   - 
   - fondo
   - otro
-  - 
+  - pruebafondo
   - 
   - 
   - 
@@ -38,11 +38,8 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: fondo
-    uniqueID: 2396491089
-    locked: 0
-  - name: otro
-    uniqueID: 300841001
+  - name: pruebafondo
+    uniqueID: 2100443607
     locked: 0
   - name: Default
     uniqueID: 0
